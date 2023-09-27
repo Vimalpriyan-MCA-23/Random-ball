@@ -1,4 +1,3 @@
 # ball-assignment
-The "Diagonal Ball Movement Inside Container" is a JavaScript-powered web application that showcases the dynamic motion of a ball as it moves diagonally within a designated container on a webpage. This interactive simulation offers users an engaging visual experience while highlighting the principles of motion and animation.https://vimalpriyan-mca-23.github.io/ball-asignment/
-
-CLICK THIS TO SEE THE RESULT:https://vimalpriyan-mca-23.github.io/ball-asignment/
+In this project, the ball move between two fixed positions on the x-axis and y-axis on the page now have added edge detection and the ball can bounce between two specific points.
+LINK:  https://vimalpriyan-mca-23.github.io/ball-asignment/
